@@ -44,7 +44,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Le11">
+  <component name="RunManager" selected="Application.Le14">
     <configuration name="Le07" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="src.Le07" />
       <module name="Leetcode" />
@@ -53,8 +53,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Le11" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="src.Le11" />
+    <configuration name="Le10" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.Le10" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Le12" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.Le12" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Le13" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.Le13" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Le14" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.Le14" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Le509" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.Le509" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,7 +90,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Le07" />
-      <item itemvalue="Application.Le11" />
+      <item itemvalue="Application.Le12" />
+      <item itemvalue="Application.Le509" />
+      <item itemvalue="Application.Le13" />
+      <item itemvalue="Application.Le10" />
+      <item itemvalue="Application.Le14" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
