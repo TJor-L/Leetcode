@@ -44,7 +44,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Le11">
     <configuration name="Le07" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="src.Le07" />
       <module name="Leetcode" />
@@ -53,6 +53,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Le11" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.Le11" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Le07" />
+      <item itemvalue="Application.Le11" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
