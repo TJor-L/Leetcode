@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2725e450-aace-4a07-8958-67ebce643702" name="Changes" comment="" />
+    <list default="true" id="2725e450-aace-4a07-8958-67ebce643702" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Le45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Le55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +48,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Le14">
+  <component name="RunManager" selected="应用程序.Le07">
     <configuration name="Le07" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="src.Le07" />
       <module name="Leetcode" />
@@ -89,12 +93,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Le07" />
-      <item itemvalue="Application.Le12" />
-      <item itemvalue="Application.Le509" />
-      <item itemvalue="Application.Le13" />
-      <item itemvalue="Application.Le10" />
-      <item itemvalue="Application.Le14" />
+      <item itemvalue="应用程序.Le07" />
+      <item itemvalue="应用程序.Le10" />
+      <item itemvalue="应用程序.Le12" />
+      <item itemvalue="应用程序.Le13" />
+      <item itemvalue="应用程序.Le14" />
+      <item itemvalue="应用程序.Le509" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -107,5 +111,16 @@
       <updated>1651036678196</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
